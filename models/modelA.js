@@ -7,5 +7,5 @@ var myLaptop = {
   hotTemp: false,
   daysUsed: ['Monday', 'Tuesday', 'Wednesday', 'Thursday',
   'Friday', 'Saturday', 'Sunday'],
-  monthsUsed: ['October', 'November'}]
+  monthsUsed: ['October', 'November']
 }
