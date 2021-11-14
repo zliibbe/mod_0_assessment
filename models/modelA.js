@@ -5,7 +5,7 @@ var myLaptop = {
   useHours: 65,
   clean: true,
   hotTemp: false,
-  daysUsed: {'Monday', 'Tuesday', 'Wednesday', 'Thursday',
-  'Friday', 'Saturday', 'Sunday'},
-  monthsUsed: {'October', 'November'},
+  daysUsed: ['Monday', 'Tuesday', 'Wednesday', 'Thursday',
+  'Friday', 'Saturday', 'Sunday'],
+  monthsUsed: ['October', 'November'}]
 }

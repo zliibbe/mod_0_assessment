@@ -5,8 +5,8 @@ var myHouse = {
   numberOfBedrooms = 3,
   oneLevel = false,
   leavesRaked = true,
-  peopleInsideOverTime = {3, 2, 3, 2, 1, 5},
-  ownerNames = {"Laura", "Zach"},
+  peopleInsideOverTime = [3, 2, 3, 2, 1, 5],
+  ownerNames = ["Laura", "Zach"]
 }
 
 /*I took a break to be with my daughter and put her to bed (as my spouse
